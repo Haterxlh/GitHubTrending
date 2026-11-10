@@ -7,10 +7,10 @@
   ],
   "count": 30,
   "degraded": true,
-  "contentHash": "sha256:c771e9621fd125baa25a769a60c896196a85248ff392227175c6d687ae39c8bc",
+  "contentHash": "sha256:5347ce512d06550cf124cd7b0a78badd9228556c7795183827371ecc2d6510fe",
   "contentHashAlgo": "jcs-sha256-v1",
   "coreVersion": "0.12.3",
-  "generatedAt": "2026-11-10T10:18:48.057856Z",
+  "generatedAt": "2026-11-10T10:21:56.55425Z",
   "repos": [
     {
       "fullName": "freeCodeCamp/freeCodeCamp",
@@ -19,26 +19,26 @@
       "language": "typescript",
       "stars": 458836,
       "starsInPeriod": 0,
-      "forks": 47440,
+      "forks": 47441,
       "rank": 1,
       "source": "search-api",
-      "summary": "[原文] freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "summary": "免费学习数学、编程与计算机科学的开源课程代码库，提供面向自学者的系统化学习路径。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "typescript",
-      "stars": 448339,
+      "stars": 448350,
       "starsInPeriod": 0,
-      "forks": 110507,
+      "forks": 110509,
       "rank": 2,
       "source": "search-api",
-      "summary": "[原文] Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "summary": "借助智能体从应用行为到原生二进制逐层逆向分析的工具，面向安全研究与程序分析人员。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "openclaw/openclaw",
@@ -50,23 +50,23 @@
       "forks": 82859,
       "rank": 3,
       "source": "search-api",
-      "summary": "[原文] The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "跨操作系统与平台的 AI 智能体，可实际执行任务，适合希望用自动化代理完成日常操作的用户。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "nilbuild/developer-roadmap",
       "url": "https://github.com/nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "language": "typescript",
-      "stars": 371713,
+      "stars": 371714,
       "starsInPeriod": 0,
-      "forks": 45723,
+      "forks": 45724,
       "rank": 4,
       "source": "search-api",
-      "summary": "[原文] Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "summary": "为开发者提供交互式技能路线图与学习指南，帮助规划职业成长与技术进阶方向。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "NousResearch/hermes-agent",
@@ -78,23 +78,23 @@
       "forks": 58475,
       "rank": 5,
       "source": "search-api",
-      "summary": "[原文] The agent that grows with you",
+      "summary": "可随用户需求持续演进的 AI 代理框架，面向需要定制和扩展智能体能力的开发者。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "torvalds/linux",
       "url": "https://github.com/torvalds/linux",
       "description": "Linux kernel source tree",
       "language": "c",
-      "stars": 255085,
+      "stars": 255086,
       "starsInPeriod": 0,
-      "forks": 66760,
+      "forks": 66762,
       "rank": 6,
       "source": "search-api",
-      "summary": "[原文] Linux kernel source tree",
+      "summary": "Linux 内核源码树，供内核开发者、驱动工程师与系统软件研究者阅读、修改和构建。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "anomalyco/opencode",
@@ -106,9 +106,9 @@
       "forks": 30482,
       "rank": 7,
       "source": "search-api",
-      "summary": "[原文] The open source coding agent.",
+      "summary": "开源编码智能体，面向希望借助 AI 辅助完成代码编写、修改与开发任务的程序员。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "n8n-io/n8n",
@@ -120,9 +120,9 @@
       "forks": 61430,
       "rank": 8,
       "source": "search-api",
-      "summary": "[原文] Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "支持可视化与自定义代码的公平代码工作流自动化平台，内置 AI 能力并支持自托管或云端部署。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "tensorflow/tensorflow",
@@ -134,23 +134,23 @@
       "forks": 77780,
       "rank": 9,
       "source": "search-api",
-      "summary": "[原文] An Open Source Machine Learning Framework for Everyone",
+      "summary": "面向大众的开源机器学习框架，为研究和生产提供模型构建、训练与部署能力。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
       "language": "typescript",
-      "stars": 200309,
+      "stars": 200310,
       "starsInPeriod": 0,
       "forks": 10538,
       "rank": 10,
       "source": "search-api",
-      "summary": "[原文] Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "summary": "为 AI 智能体抓取并整理网页数据的工具，帮助开发者为其应用接入可用的网络信息。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "microsoft/vscode",
@@ -162,9 +162,9 @@
       "forks": 43762,
       "rank": 11,
       "source": "search-api",
-      "summary": "[原文] Visual Studio Code",
+      "summary": "微软开源的跨平台代码编辑器，拥有丰富扩展生态，供开发者日常编码与调试使用。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "ultraworkers/claw-code",
@@ -176,9 +176,9 @@
       "forks": 107405,
       "rank": 12,
       "source": "search-api",
-      "summary": "[原文] An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "summary": "用 Rust 构建、由 AI 代理全程自动开发维护的博物馆展项，演示无人干预的编程流程。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "Significant-Gravitas/AutoGPT",
@@ -190,9 +190,9 @@
       "forks": 45881,
       "rank": 13,
       "source": "search-api",
-      "summary": "[原文] AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "让用户用自然语言搭建和运行自主 AI 代理的开源平台，降低 AI 应用开发门槛。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "ollama/ollama",
@@ -204,9 +204,9 @@
       "forks": 18989,
       "rank": 14,
       "source": "search-api",
-      "summary": "[原文] Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "summary": "在本地快速拉起 Kimi、Qwen、Gemma 等大模型的运行工具，便于开发者私有化推理。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "flutter/flutter",
@@ -218,23 +218,23 @@
       "forks": 32113,
       "rank": 15,
       "source": "search-api",
-      "summary": "[原文] Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "summary": "谷歌开源的跨平台 UI 框架，用 Dart 一套代码构建移动、Web 与桌面应用。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "mdx",
-      "stars": 176803,
+      "stars": 176804,
       "starsInPeriod": 0,
       "forks": 22551,
       "rank": 16,
       "source": "search-api",
-      "summary": "[原文] f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "社区共建的 ChatGPT 提示词库，支持分享检索，也可自托管供组织内部私密使用。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "twbs/bootstrap",
@@ -246,9 +246,9 @@
       "forks": 78870,
       "rank": 17,
       "source": "search-api",
-      "summary": "[原文] The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+      "summary": "流行的响应式前端框架，提供 HTML/CSS/JS 组件，用于快速开发移动优先的网页。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "huggingface/transformers",
@@ -260,9 +260,9 @@
       "forks": 35149,
       "rank": 18,
       "source": "search-api",
-      "summary": "[原文] 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "summary": "Hugging Face 的模型定义框架，统一加载与训练文本、视觉、音频及多模态模型。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "langgenius/dify",
@@ -274,9 +274,9 @@
       "forks": 25435,
       "rank": 19,
       "source": "search-api",
-      "summary": "[原文] Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "summary": "可视化搭建 Agent 工作流与 RAG 管线的协作平台，支持云端或自托管部署上线。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "open-webui/open-webui",
@@ -285,26 +285,26 @@
       "language": "svelte",
       "stars": 158281,
       "starsInPeriod": 0,
-      "forks": 23007,
+      "forks": 23006,
       "rank": 20,
       "source": "search-api",
-      "summary": "[原文] User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "可自托管的 AI 对话界面，兼容 Ollama、OpenAI 等接口，方便团队统一调用模型。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "clash-verge-rev/clash-verge-rev",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "rust",
-      "stars": 157547,
+      "stars": 157548,
       "starsInPeriod": 0,
       "forks": 11329,
       "rank": 21,
       "source": "search-api",
-      "summary": "[原文] A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "summary": "基于 Tauri 的跨平台代理客户端图形界面，供 Windows、macOS 与 Linux 用户管理订阅和代理配置。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "langflow-ai/langflow",
@@ -316,9 +316,9 @@
       "forks": 10377,
       "rank": 22,
       "source": "search-api",
-      "summary": "[原文] Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "summary": "面向开发者的可视化平台，用于搭建、调试和部署 AI 智能体与工作流。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "anthropics/claude-code",
@@ -330,23 +330,23 @@
       "forks": 24893,
       "rank": 23,
       "source": "search-api",
-      "summary": "[原文] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "summary": "运行在终端里的 AI 编程助手，能理解代码库并用自然语言完成编码、代码解释与 Git 操作。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
       "language": "rust",
-      "stars": 153237,
+      "stars": 153238,
       "starsInPeriod": 0,
       "forks": 10069,
       "rank": 24,
       "source": "search-api",
-      "summary": "[原文] A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "summary": "跨平台桌面工具，集中管理和切换 Claude Code、Codex 等多个 AI 编程工具的配置。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "langchain-ai/langchain",
@@ -358,37 +358,37 @@
       "forks": 25103,
       "rank": 25,
       "source": "search-api",
-      "summary": "[原文] The agent engineering platform.",
+      "summary": "面向智能体工程的开发框架，提供模型调用、工具集成与流程编排能力。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "python",
-      "stars": 149104,
+      "stars": 149105,
       "starsInPeriod": 0,
       "forks": 13388,
       "rank": 26,
       "source": "search-api",
-      "summary": "[原文] 💫 Toolkit to help you get started with SDD or any other process!",
+      "summary": "帮助团队快速上手规范驱动开发（SDD）等流程的工具包，提供模板与脚手架。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "language": "python",
-      "stars": 147566,
+      "stars": 147567,
       "starsInPeriod": 0,
       "forks": 15616,
       "rank": 27,
       "source": "search-api",
-      "summary": "[原文] An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+      "summary": "为 AI 编程助手补充 UI/UX 设计知识的技能包，辅助多平台界面设计。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "Comfy-Org/ComfyUI",
@@ -400,23 +400,23 @@
       "forks": 17401,
       "rank": 28,
       "source": "search-api",
-      "summary": "[原文] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "summary": "基于节点图的扩散模型本地推理界面与后端，支持可视化编排流程并对外提供 API。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "python",
-      "stars": 144333,
+      "stars": 144334,
       "starsInPeriod": 0,
       "forks": 21236,
       "rank": 29,
       "source": "search-api",
-      "summary": "[原文] 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "summary": "汇集上百个开源 AI 智能体、Agent 技能与 RAG 应用示例的合集，便于参考与复用。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "iptv-org/iptv",
@@ -428,9 +428,9 @@
       "forks": 8567,
       "rank": 30,
       "source": "search-api",
-      "summary": "[原文] Collection of publicly available IPTV channels from all over the world",
+      "summary": "汇总全球公开可用的 IPTV 频道列表，供播放器直接订阅收看。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     }
   ]
 }
